@@ -1,0 +1,14 @@
+wookit/
+tests/
+wookit.zip
+src/.DS_Store
+.DS_store
+phpunit.xml
+node_modules
+./vendor/bin
+./vendor/wilokecom
+./vendor/phpunit
+./vendor/composer
+composer.lock
+myshopkit.zip
+vendor/

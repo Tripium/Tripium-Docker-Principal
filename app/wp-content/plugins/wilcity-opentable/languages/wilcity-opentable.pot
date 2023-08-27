@@ -1,0 +1,44 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Wilcity OpenTable\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-31 04:06+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#. Description of the plugin
+msgid "Allow customer to embed Open Table to their listing"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wilcityservice.com/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wiloke.com"
+msgstr ""
+
+#: src/Controllers/SaveOpenTableController.php:114
+msgid "The open table id is required"
+msgstr ""
+
+#: src/Controllers/FetchRestaurantController.php:33
+msgid "We found no restaurant yet, please try with another keyword"
+msgstr ""
+
+#. Name of the plugin
+msgid "Wilcity OpenTable"
+msgstr ""
+
+#. Author of the plugin
+msgid "Wiloke"
+msgstr ""

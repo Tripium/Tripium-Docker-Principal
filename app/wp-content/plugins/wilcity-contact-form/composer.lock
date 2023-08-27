@@ -1,0 +1,58 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "438dc5955c4ff492f51018b14b7808cb",
+    "content-hash": "b3f55b0417fff4a61e3410e1e61fdfd5",
+    "packages": [
+        {
+            "name": "wiloke/repository",
+            "version": "1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/wilokecom/wilokerepository.git",
+                "reference": "8c45b3c7e9cafcaa048eab7c2a46ac846a7fcc03"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/wilokecom/wilokerepository/zipball/8c45b3c7e9cafcaa048eab7c2a46ac846a7fcc03",
+                "reference": "8c45b3c7e9cafcaa048eab7c2a46ac846a7fcc03",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^7.2"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^8"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "WilokeRepository\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Wiloke",
+                    "email": "contact.wiloke@gmail.com"
+                }
+            ],
+            "description": "A small tool but very useful. It helps to get a file or a item in file easier",
+            "time": "2020-03-31 02:29:51"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

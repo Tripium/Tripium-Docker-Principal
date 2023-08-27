@@ -1,0 +1,799 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooKit\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-09-10 07:48+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.3; wp-5.8.1\n"
+"X-Domain: wookit"
+
+#: src/SmartBar/Configs/PostType.php:15
+msgid "Add New"
+msgstr ""
+
+#: src/SmartBar/Configs/PostType.php:14
+msgid "Add New Item"
+msgstr ""
+
+#: src/Shared/Upload/Base64Upload.php:34 src/Shared/Upload/WPUpload.php:83
+#: src/Shared/Upload/ImageURLUpload.php:31
+#: src/Shared/Upload/ImageURLUpload.php:57
+msgid "All files have been uploaded successfully."
+msgstr ""
+
+#: src/SmartBar/Configs/PostType.php:13
+msgid "All Items"
+msgstr ""
+
+#: src/SmartBar/Configs/PostMeta.php:35
+msgid "All Templates"
+msgstr ""
+
+#: src/Dashboard/Views/AuthSettings.php:20
+msgid "Application Password"
+msgstr ""
+
+#: src/Dashboard/Controllers/AuthController.php:224
+#: src/Dashboard/Controllers/AuthController.php:225
+msgid "Auth Settings"
+msgstr ""
+
+#: src/Shared/Configs/TemplateMeta.php:4
+msgid "Blog"
+msgstr ""
+
+#: src/Shared/Configs/TemplateMeta.php:9
+msgid "Cart"
+msgstr ""
+
+#: src/Shared/MultiLanguage/Config/Languages/English.php:26
+msgid "Collect Emails"
+msgstr ""
+
+#: src/Shared/MultiLanguage/Config/Languages/English.php:27
+msgid "Collect Emails and get Social Followers with Discounts"
+msgstr ""
+
+#: src/Shared/Configs/TemplateMeta.php:6
+msgid "Collections"
+msgstr ""
+
+#: src/Popup/Services/Post/CreatePostService.php:34
+msgid "Congrats! The popup has been created successfully."
+msgstr ""
+
+#: src/Popup/Services/Post/UpdatePostService.php:68
+#: src/SmartBar/Services/Post/UpdatePostService.php:72
+msgid "Congrats! The popup has been updated successfully."
+msgstr ""
+
+#: src/SmartBar/Services/Post/CreatePostService.php:56
+msgid "Congrats! The smart bar has been created successfully."
+msgstr ""
+
+#: src/Popup/Services/Post/DeletePostService.php:36
+msgid "Congrats, the popup has been deleted."
+msgstr ""
+
+#: src/Popup/Controllers/PopupAPIController.php:221
+msgid "Congrats, the popup has been published."
+msgstr ""
+
+#: src/Popup/Controllers/PopupAPIController.php:444
+msgid "Congrats, the popups have been deleted."
+msgstr ""
+
+#: src/SmartBar/Services/Post/DeletePostService.php:35
+msgid "Congrats, the smart bar has been deleted."
+msgstr ""
+
+#: src/SmartBar/Controllers/SmartBarAPIController.php:474
+msgid "Congrats, the smart bars have been deleted."
+msgstr ""
+
+#: src/SmartBar/Controllers/SmartBarAPIController.php:207
+msgid "Congrats, the smartbart has been published."
+msgstr ""
+
+#: src/SmartBar/Configs/PostMeta.php:40
+msgid "Display Templates"
+msgstr ""
+
+#: src/SmartBar/Configs/PostType.php:17
+msgid "Edit Item"
+msgstr ""
+
+#: src/Shared/Upload/WPUpload.php:109
+msgid "Exceeded filesize limit."
+msgstr ""
+
+#: src/Shared/Upload/Base64Upload.php:120
+#, php-format
+msgid "Failed to upload %s"
+msgstr ""
+
+#: src/Page/Controllers/PageController.php:45
+#: src/Page/Controllers/PageController.php:117
+#: src/Product/Controllers/ProductsController.php:43
+#: src/Discount/Controllers/DiscountCodeController.php:35
+#: src/MailServices/General/Controllers/GeneralMailServicesController.php:353
+#: src/MailServices/General/Controllers/GeneralMailServicesController.php:407
+msgid "Forbidden"
+msgstr ""
+
+#: src/Shared/MultiLanguage/Config/Languages/English.php:30
+msgid "Get social follows"
+msgstr ""
+
+#: src/Shared/Configs/TemplateMeta.php:3
+msgid "Home Page"
+msgstr ""
+
+#: src/Shared/MultiLanguage/Config/Languages/English.php:36
+msgid "Hoorays! All of your middlewares are successful passed"
+msgstr ""
+
+#: src/MailServices/GetResponse/Controllers/GetResponseController.php:144
+msgid "Hoorays! Your Api key has been saved successfully."
+msgstr ""
+
+#: src/MailServices/GetResponse/Shared/GetResponseConnection.php:113
+msgid "Hoorays! Your email has been save successfully."
+msgstr ""
+
+#: src/MailServices/iContact/src/Shared/IcontactConnection.php:96
+msgid "Hoorays! Your email has been saved successfully."
+msgstr ""
+
+#: src/MailServices/GetResponse/Shared/GetResponseConnection.php:98
+msgid "Hoorays! Your email has been saved to this list already."
+msgstr ""
+
+#: src/MailServices/GetResponse/Controllers/GetResponseController.php:217
+msgid "Hoorays! Your list id has been save successfully."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wiloke.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wookit.myshopkit.app"
+msgstr ""
+
+#: src/MailServices/GetResponse/Middlewares/IsValidAPIKeyMiddleware.php:19
+#: src/MailServices/GetResponse/Middlewares/IsValidAPIKeyMiddleware.php:26
+msgid "Invalid API Key"
+msgstr ""
+
+#: src/MailServices/CampaignMonitor/Middlewares/IsValidAPIKeyMiddleware.php:26
+#: src/MailServices/CampaignMonitor/Middlewares/IsValidAPIKeyMiddleware.php:32
+msgid "Invalid API Key."
+msgstr ""
+
+#: src/Dashboard/Controllers/AuthController.php:200
+msgid "Invalid Application Username or Token"
+msgstr ""
+
+#: src/Shared/Upload/Base64Upload.php:18
+msgid "Invalid file type"
+msgstr ""
+
+#: src/Shared/Upload/AUpload.php:189
+#, php-format
+msgid "Invalid image type %s"
+msgstr ""
+
+#: src/Shared/Upload/ImageURLUpload.php:74
+#: src/Shared/Upload/ImageURLUpload.php:134
+msgid "Invalid Image URL"
+msgstr ""
+
+#: src/Shared/Upload/WPUpload.php:99
+msgid "Invalid parameter"
+msgstr ""
+
+#: src/Shared/Upload/AUpload.php:84
+msgid "Invalid source"
+msgstr ""
+
+#: src/Popup/Configs/PostType.php:10 src/SmartBar/Configs/PostType.php:10
+msgid "Item Archives"
+msgstr ""
+
+#: src/Popup/Configs/PostType.php:11 src/SmartBar/Configs/PostType.php:11
+msgid "Item Attributes"
+msgstr ""
+
+#: src/MailServices/GetResponse/Shared/GetResponseConnection.php:104
+msgid ""
+"Look like there are some problems when we processing. Please check again."
+msgstr ""
+
+#: src/MailServices/GetResponse/Shared/GetResponseConnection.php:93
+msgid "Look like your email doesn't meet Get Response policy."
+msgstr ""
+
+#: src/SmartBar/Configs/PostType.php:16
+msgid "New Item"
+msgstr ""
+
+#: src/Shared/Upload/WPUpload.php:106
+msgid "No file sent."
+msgstr ""
+
+#: src/MailServices/iContact/src/Shared/IcontactConnection.php:102
+msgid "Oops! Look like we meet a problem. Please re-check it."
+msgstr ""
+
+#: src/Shared/MultiLanguage/Config/Languages/English.php:32
+msgid ""
+"Oops! Look like you have reached the maximum quantity of the plan. Please "
+"upgrade to higher plan."
+msgstr ""
+
+#: src/MailServices/GetResponse/Controllers/GetResponseController.php:99
+msgid "Oops! Look like your api key is invalid. Please check again!"
+msgstr ""
+
+#: src/Shared/MultiLanguage/Config/Languages/English.php:19
+msgid "Oops! Look like your api key is invalid. Please re-check it."
+msgstr ""
+
+#: src/Shared/MultiLanguage/Config/Languages/English.php:34
+msgid ""
+"Oops! Look like your field is empty or miss configuration. Please re-check "
+"it!"
+msgstr ""
+
+#: src/MailServices/iContact/src/Middlewares/IsValidListIDMiddleware.php:22
+msgid "Oops! Look like your list ID is empty. Please check again."
+msgstr ""
+
+#: src/MailServices/CampaignMonitor/Middlewares/IsValidListIDMiddleware.php:21
+msgid ""
+"Oops! Look like your required fields has been left empty. Please re-check it!"
+"."
+msgstr ""
+
+#: src/Popup/Controllers/PopupAPIController.php:204
+msgid "Oops! Something went error, We could not active the Campaign."
+msgstr ""
+
+#: src/Shared/MultiLanguage/Config/Languages/English.php:18
+msgid "Oops! The list id is invalid"
+msgstr ""
+
+#: src/Insight/Shared/TraitReportStatistic.php:38
+msgid "Oops! this filter does not support by us"
+msgstr ""
+
+#: src/Shared/MultiLanguage/Config/Languages/English.php:31
+msgid "Oops! We couldn't find the campaign. Please re-check it!"
+msgstr ""
+
+#: src/Shared/MultiLanguage/Config/Languages/English.php:17
+msgid "Oops! Your email is invalid"
+msgstr ""
+
+#: src/Shared/Configs/TemplateMeta.php:8
+msgid "Page"
+msgstr ""
+
+#: src/Popup/Configs/PostType.php:12 src/SmartBar/Configs/PostType.php:12
+msgid "Parent Item:"
+msgstr ""
+
+#: src/Shared/MultiLanguage/Config/Languages/English.php:4
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: src/Dashboard/Controllers/AuthController.php:191
+msgid ""
+"Please go to Users -> Profile -> Create a new Application password to "
+"complete this setting."
+msgstr ""
+
+#: src/Popup/Controllers/PopupAPIController.php:404
+msgid "Please provide 1 popup at least"
+msgstr ""
+
+#: src/SmartBar/Controllers/SmartBarAPIController.php:433
+msgid "Please provide 1 smartbar at least"
+msgstr ""
+
+#: src/Popup/Configs/PostType.php:7
+msgid "Popup"
+msgstr ""
+
+#: src/Popup/Configs/PostMeta.php:22
+msgid "Popup Config"
+msgstr ""
+
+#: src/Popup/Configs/PostMeta.php:18
+msgid "Popup General Settings"
+msgstr ""
+
+#: src/Popup/Configs/PostType.php:6 src/Popup/Configs/PostType.php:8
+#: src/Popup/Configs/PostType.php:9
+msgid "Popups"
+msgstr ""
+
+#: src/Shared/Configs/TemplateMeta.php:7
+msgid "Product"
+msgstr ""
+
+#: src/Dashboard/Views/AuthSettings.php:30
+msgid "Save Changes"
+msgstr ""
+
+#: src/Shared/Configs/TemplateMeta.php:5
+msgid "Search"
+msgstr ""
+
+#: src/SmartBar/Configs/PostMeta.php:28
+msgid "Show On Page Mode"
+msgstr ""
+
+#: src/SmartBar/Configs/PostType.php:7
+msgid "Smart Bar"
+msgstr ""
+
+#: src/SmartBar/Configs/PostMeta.php:22
+msgid "Smart Bar Configuration"
+msgstr ""
+
+#: src/SmartBar/Configs/PostMeta.php:18
+msgid "Smart Bar Settings"
+msgstr ""
+
+#: src/SmartBar/Configs/PostType.php:6 src/SmartBar/Configs/PostType.php:8
+#: src/SmartBar/Configs/PostType.php:9
+msgid "Smart Bars"
+msgstr ""
+
+#: src/Shared/Upload/WPUpload.php:72
+msgid "Somethings went wrong, We could not upload your files"
+msgstr ""
+
+#: src/Shared/Validation/Validation.php:77
+#, php-format
+msgid "Sorry, but Rule %s does not exist"
+msgstr ""
+
+#: src/Shared/MultiLanguage/Config/Languages/English.php:13
+msgid "Sorry, it seems the campaign is missing configuration"
+msgstr ""
+
+#: src/Shared/MultiLanguage/Config/Languages/English.php:12
+msgid "Sorry, it seems the campaign is no longer available"
+msgstr ""
+
+#: src/Dashboard/Controllers/AuthController.php:132
+msgid "Sorry, the application password is required"
+msgstr ""
+
+#: src/Shared/MultiLanguage/Config/Languages/English.php:6
+msgid "Sorry, The email param must not be null and required."
+msgstr ""
+
+#: src/Shared/Post/TraitIsPostAuthor.php:16
+msgid "Sorry, the item does not exist."
+msgstr ""
+
+#: src/Insight/Shared/TraitUpdateDeleteCreateInsightValidation.php:38
+msgid "Sorry, the item is no longer available"
+msgstr ""
+
+#: src/Shared/TraitHelper.php:21
+msgid "Sorry, the Popup doest not exist at the moment"
+msgstr ""
+
+#: src/Insight/Shared/TraitUpdateDeleteCreateInsightValidation.php:31
+msgid "Sorry, the post doest not exist at the moment"
+msgstr ""
+
+#: src/Dashboard/Controllers/AuthController.php:128
+msgid "Sorry, the username is required"
+msgstr ""
+
+#: src/Shared/MultiLanguage/Config/Languages/English.php:3
+msgid "Sorry, this Campaign is not valid"
+msgstr ""
+
+#: src/Shared/Upload/WPUpload.php:165 src/Shared/Upload/ImageURLUpload.php:210
+msgid "Sorry, We could not copy this file."
+msgstr ""
+
+#: src/Popup/Services/Post/DeletePostService.php:42
+msgid "Sorry, We could not delete this popup."
+msgstr ""
+
+#: src/SmartBar/Services/Post/DeletePostService.php:42
+msgid "Sorry, We could not delete this smart bar."
+msgstr ""
+
+#: src/Shared/Upload/WPUpload.php:156 src/Shared/Upload/ImageURLUpload.php:202
+msgid "Sorry, We could not download this file."
+msgstr ""
+
+#: src/Discount/Controllers/SharingDiscountCodeController.php:101
+#: src/Discount/Controllers/SharingDiscountCodeController.php:116
+#: src/Shared/MultiLanguage/Config/Languages/English.php:15
+msgid "Sorry, We could not find Coupon Code in this campaign."
+msgstr ""
+
+#: src/Shared/MultiLanguage/Config/Languages/English.php:37
+msgid "Sorry, We could not find the plan"
+msgstr ""
+
+#: src/Shared/MultiLanguage/Config/Languages/English.php:23
+msgid "Sorry, We could not find Wheel Settings of this campaign"
+msgstr ""
+
+#: src/Popup/Controllers/PopupAPIController.php:310
+#: src/SmartBar/Controllers/SmartBarAPIController.php:532
+msgid "Sorry, We could not find your popups"
+msgstr ""
+
+#: src/Shared/MultiLanguage/Config/Languages/English.php:10
+msgid "Sorry, We could not find your shop"
+msgstr ""
+
+#: src/MailServices/General/Controllers/GeneralMailServicesController.php:296
+#: src/MailServices/General/Controllers/GeneralMailServicesController.php:376
+msgid "Sorry, You do not have permission this perform this action"
+msgstr ""
+
+#: src/Insight/Shared/TraitUpdateDeleteCreateInsightValidation.php:25
+msgid "Sorry, You do not have permission this perform this action."
+msgstr ""
+
+#: src/Shared/MultiLanguage/Config/Languages/English.php:7
+msgid "Sorry, You must agree with our policy and term to use this feature."
+msgstr ""
+
+#: src/Shared/MultiLanguage/Config/Languages/English.php:9
+msgid "Sorry, You must log into the App to use this feature"
+msgstr ""
+
+#: src/Shared/MultiLanguage/Config/Languages/English.php:5
+msgid "Sorry, your email is already subscribed in this campaign"
+msgstr ""
+
+#: src/Shared/PostMeta/TraitHandleTemplateConfig.php:39
+#, php-format
+msgid "Sorry,the template %s does not exist"
+msgstr ""
+
+#: src/Images/Controllers/ImageController.php:279
+msgid "Sorry,this image does not exists in database"
+msgstr ""
+
+#: src/Shared/Middleware/Middlewares/IsWoocommerceActiveMiddleware.php:15
+msgid "Sorry,Woocommerce plugin is required"
+msgstr ""
+
+#: src/Shared/Post/TraitIsPostAuthor.php:33
+msgid "Sorry,you are not the author of this the item"
+msgstr ""
+
+#: src/SmartBar/Configs/PostMeta.php:36
+msgid "Specified Pages"
+msgstr ""
+
+#: src/Shared/MultiLanguage/Config/Languages/English.php:29
+msgid "Target a URL"
+msgstr ""
+
+#: src/Shared/MultiLanguage/Config/Languages/English.php:28
+msgid "Target a URL using an image"
+msgstr ""
+
+#: src/Shared/Validation/Validation.php:59
+#, php-format
+msgid "The %s is required"
+msgstr ""
+
+#: src/Shared/Validation/Validation.php:68
+#, php-format
+msgid "The %s key must be %s. The current value is %s "
+msgstr ""
+
+#: src/Dashboard/Controllers/AuthController.php:143
+msgid "The application must belong to an Administrator account"
+msgstr ""
+
+#: src/Dashboard/Controllers/AuthController.php:205
+msgid "The application must belong to an Administrator account."
+msgstr ""
+
+#: src/Shared/MultiLanguage/Config/Languages/English.php:21
+msgid "The Campaign ID is required"
+msgstr ""
+
+#: src/Insight/Clicks/Controllers/ClickStatisticAPIController.php:81
+msgid "The clicks has deleted in database successfully"
+msgstr ""
+
+#: src/Insight/Clicks/Controllers/ClickStatisticAPIController.php:242
+#: src/Insight/Clicks/Controllers/ClickStatisticAPIController.php:260
+msgid "The clicks has updated in database successfully"
+msgstr ""
+
+#: src/Shared/MultiLanguage/Config/Languages/English.php:16
+msgid "The Coupon ID is required"
+msgstr ""
+
+#: src/Insight/Shared/TraitUpdateDeleteCreateInsightValidation.php:44
+msgid "The data has been validated"
+msgstr ""
+
+#: src/Shared/Assert.php:52
+msgid "The data has been validated and it's correct."
+msgstr ""
+
+#: src/Popup/Services/PostMeta/PostMetaService.php:51
+#: src/Shared/Post/Query/PostMetaService.php:46
+#: src/SmartBar/Services/PostMeta/PostMetaService.php:51
+msgid "The data have been updated successfully."
+msgstr ""
+
+#: src/Shared/Validation/Validation.php:97
+msgid "The data have been validated"
+msgstr ""
+
+#: src/Shared/Assert.php:19 src/Shared/Validation/Validation.php:174
+msgid "The data is not json format"
+msgstr ""
+
+#: src/Insight/Shared/TraitVerifyParamStatistic.php:26
+msgid "The end is required"
+msgstr ""
+
+#: src/Shared/Upload/AUpload.php:366
+msgid "The extension is required"
+msgstr ""
+
+#: src/Shared/Upload/ImageURLUpload.php:38
+#, php-format
+msgid "The file %s has been uploaded already"
+msgstr ""
+
+#: src/Shared/Upload/AUpload.php:442
+#, php-format
+msgid "The file %s has been uploaded successfully"
+msgstr ""
+
+#: src/Shared/Upload/AUpload.php:241
+#, php-format
+msgid "The file is large than expected %sM"
+msgstr ""
+
+#: src/Images/Controllers/ImageController.php:120
+msgid "The file is required"
+msgstr ""
+
+#: src/Shared/Upload/AUpload.php:358
+msgid "The file mime type is required"
+msgstr ""
+
+#: src/Shared/Upload/AUpload.php:362
+msgid "The file name type is required"
+msgstr ""
+
+#: src/Shared/Upload/AUpload.php:257
+#, php-format
+msgid "The file type %s is not allowed"
+msgstr ""
+
+#: src/Popup/Controllers/PopupAPIController.php:473
+#: src/SmartBar/Controllers/SmartBarAPIController.php:503
+#, php-format
+msgid ""
+"The following ids have been deleted: %s. We could not delete the following "
+"ids: %s"
+msgstr ""
+
+#: src/Shared/MultiLanguage/Config/Languages/English.php:11
+msgid "The id is required"
+msgstr ""
+
+#: src/Popup/Services/Post/UpdatePostService.php:35
+#: src/SmartBar/Services/Post/UpdatePostService.php:37
+msgid "The ID is required."
+msgstr ""
+
+#: src/Shared/Upload/AUpload.php:370
+msgid "The image source is not allowed"
+msgstr ""
+
+#: src/Shared/Validation/Validation.php:28
+#, php-format
+msgid "The key %s is required."
+msgstr ""
+
+#: src/Shared/MultiLanguage/Config/Languages/English.php:22
+msgid "The List ID is required"
+msgstr ""
+
+#. Description of the plugin
+msgid "The one kit to boost sales"
+msgstr ""
+
+#: src/Shared/MultiLanguage/Config/Languages/English.php:14
+msgid "The post ID is required"
+msgstr ""
+
+#: src/Insight/Shared/TraitVerifyParamStatistic.php:17
+msgid "The post type is required"
+msgstr ""
+
+#: src/Shared/Post/TraitMaybeSanitizeCallback.php:17
+#: src/Shared/Post/TraitMaybeSanitizeCallback.php:21
+#, php-format
+msgid "The sanitize callback for handling %s is not exists."
+msgstr ""
+
+#: src/Insight/Shared/TraitVerifyParamStatistic.php:22
+msgid "The start is required"
+msgstr ""
+
+#: src/Insight/Views/Controllers/ViewStatisticAPIController.php:104
+msgid "The view has deleted in database successfully"
+msgstr ""
+
+#: src/Insight/Views/Controllers/ViewStatisticAPIController.php:271
+#: src/Insight/Views/Controllers/ViewStatisticAPIController.php:289
+msgid "The view has updated in database successfully"
+msgstr ""
+
+#: src/Images/Controllers/ImageController.php:172
+#: src/Images/Controllers/ImageController.php:262
+msgid "There is featured image"
+msgstr ""
+
+#: src/Images/Controllers/ImageController.php:283
+msgid "This image fetched successfully"
+msgstr ""
+
+#: src/MailServices/GetResponse/Controllers/GetResponseController.php:169
+msgid "This is your lists."
+msgstr ""
+
+#: src/Shared/Post/TraitIsPostType.php:14
+#, php-format
+msgid "Unfortunately, this item is not a %s"
+msgstr ""
+
+#: src/Shared/Upload/WPUpload.php:111
+msgid "Unknown errors."
+msgstr ""
+
+#: src/Dashboard/Views/AuthSettings.php:12
+msgid "Username"
+msgstr ""
+
+#: src/Popup/Controllers/PopupAPIController.php:455
+#, php-format
+msgid "We could not delete the following popup ids: %s"
+msgstr ""
+
+#: src/SmartBar/Controllers/SmartBarAPIController.php:485
+#, php-format
+msgid "We could not delete the following smart bar ids: %s"
+msgstr ""
+
+#: src/Insight/Clicks/Controllers/ClickStatisticAPIController.php:85
+msgid "We could not deleted the clicks in database"
+msgstr ""
+
+#: src/Insight/Views/Controllers/ViewStatisticAPIController.php:108
+msgid "We could not deleted the view in database"
+msgstr ""
+
+#: src/Shared/Upload/AUpload.php:401
+msgid "We could not update the data"
+msgstr ""
+
+#: src/Insight/Clicks/Controllers/ClickStatisticAPIController.php:249
+#: src/Insight/Clicks/Controllers/ClickStatisticAPIController.php:266
+msgid "We could not updated the click"
+msgstr ""
+
+#: src/Insight/Views/Controllers/ViewStatisticAPIController.php:278
+#: src/Insight/Views/Controllers/ViewStatisticAPIController.php:295
+msgid "We could not updated the view"
+msgstr ""
+
+#: src/Shared/Upload/WPUpload.php:77
+msgid "We could not upload some files"
+msgstr ""
+
+#: src/Shared/MultiLanguage/Config/Languages/English.php:24
+#, php-format
+msgid ""
+"We found %s campaign is running and it will conflict with this campaign. Do "
+"you want to disable it?"
+msgstr ""
+
+#: src/Page/Controllers/PageController.php:104
+#: src/Product/Controllers/ProductsController.php:100
+#: src/Discount/Controllers/DiscountCodeController.php:81
+#: src/Shared/Post/Query/QueryPost.php:133
+#, php-format
+msgid "We found %s items"
+msgstr ""
+
+#: src/Page/Controllers/PageController.php:146
+msgid "We found items page"
+msgstr ""
+
+#: src/Discount/Controllers/DiscountCodeController.php:57
+msgid "We found no coupon"
+msgstr ""
+
+#: src/Shared/Post/Query/QueryPost.php:109
+msgid "We found no items"
+msgstr ""
+
+#: src/Page/Controllers/PageController.php:84
+#: src/Page/Controllers/PageController.php:127
+msgid "We found no page"
+msgstr ""
+
+#: src/Product/Controllers/ProductsController.php:63
+msgid "We found no product"
+msgstr ""
+
+#: src/Shared/Post/TraitMaybeAssertion.php:29
+#, php-format
+msgid "We got an issue on %s field. %s"
+msgstr ""
+
+#. Author of the plugin
+msgid "Wiloke"
+msgstr ""
+
+#. Name of the plugin
+msgid "WooKit"
+msgstr ""
+
+#: src/Dashboard/Views/AuthSettings.php:6
+msgid "Wookit Auth Settings"
+msgstr ""
+
+#: src/Dashboard/Controllers/DashboardController.php:57
+#: src/Dashboard/Controllers/DashboardController.php:58
+msgid "WooKit Dashboard"
+msgstr ""
+
+#: src/Shared/Upload/AUpload.php:130
+msgid "You are not author of this attachment"
+msgstr ""
+
+#: src/Shared/MultiLanguage/Config/Languages/English.php:38
+msgid ""
+"You have reached the maximum number of display attempts for the month. "
+"Please consider upgrading your plan"
+msgstr ""
+
+#: src/Shared/TraitHelper.php:15 src/Images/Controllers/ImageController.php:255
+#: src/Shared/Message/MessageDefinition.php:9
+msgid "You must be logged in before performing this function"
+msgstr ""
+
+#: src/Popup/Services/PostMeta/PostMetaService.php:70
+#: src/Shared/Post/Query/PostMetaService.php:65
+#: src/SmartBar/Services/PostMeta/PostMetaService.php:70
+msgid "You must set the post id."
+msgstr ""

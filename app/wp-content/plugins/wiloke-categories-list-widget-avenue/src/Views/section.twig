@@ -1,0 +1,44 @@
+{% set componentName = "wiloke-post-categories-avenue" %}
+
+{% set columnStyles = '--col-xs:' ~ data.responsive.xs ~ ';--col-sm:' ~ data.responsive.sm ~ ';--col-md:' ~ data.responsive.md ~ ';--col-lg:' ~ data.responsive.lg %}
+{% set gapStyles = '--gap-xs:' ~ data.responsive.gapXs ~ 'px;--gap-sm:' ~ data.responsive.gapSm ~ 'px;--gap-md:' ~ data.responsive.gapMd ~ 'px;--gap-lg:' ~ data.responsive.gapLg ~ 'px' %}
+
+{% set content = data.general.content %}
+{% set typography = data.typography %}
+{% set responsive = data.responsive %}
+{% set carousel = data.carousel %}
+{% set colors = data.colors %}
+{% set border = data.border %}
+
+{% set imageRadius = data.general.imageRadius ? 'border-radius: ' ~ data.general.imageRadius ~ 'px;' : '' %}
+{% set aspectRatio = data.general.aspectRatio ? '--aspect-ratio:' ~ data.general.aspectRatio ~ ';' : ''  %}
+{% set background = colors.backgroundColor ? 'background-color:' ~ colors.backgroundColor ~ ';' : '' %}
+
+{% set backgroundPrimary = colors.primary ? 'background-color:' ~ colors.primary ~ ';' ~ '--color-primary:' ~ colors.primary ~ ';' : '' %}
+{% set backgroundSecondary = colors.secondary ? 'background-color:' ~ colors.secondary ~ ';' ~ '--color-secondary:' ~ colors.secondary ~ ';' : '' %}
+
+{% set colorPrimaryCssVariable = colors.primary ? 'color:' ~ colors.primary ~ ';' ~ '--color-primary:' ~ colors.primary ~ ';' : '' %}
+{% set colorSecondaryCssVariable = colors.secondary ? 'color:' ~ colors.secondary ~ ';' ~ '--color-secondary:' ~ colors.secondary ~ ';' : '' %}
+{% set colorGray9CssVariable = colors.gray9 ? 'color:' ~ colors.gray9 ~ ';' ~ '--color-gray9:' ~ colors.gray9 ~ ';' : '' %}
+
+{% set colorPrimaryVariable = colors.primary ? '--color-primary:' ~ colors.primary ~ ';' : '' %}
+{% set colorSecondaryVariable = colors.secondary ? '--color-secondary:' ~ colors.secondary ~ ';' : '' %}
+{% set colorLightVariable = colors.light ? '--color-light:' ~ colors.light ~ ';' : '' %}
+{% set colorGray2Variable = colors.gray2 ? '--color-gray2:' ~ colors.gray2 ~ ';' : '' %}
+{% set colorGray9Variable = colors.gray9 ? '--color-gray9:' ~ colors.gray9 ~ ';' : '' %}
+
+{% set colorLight = colors.light ? 'color:' ~ colors.light ~ ';' : '' %}
+{% set colorGray2 = colors.gray2 ? 'color:' ~ colors.gray2 ~ ';' : '' %}
+{% set colorGray7 = colors.gray7 ? 'color:' ~ colors.gray7 ~ ';' : '' %}
+{% set colorGray8 = colors.gray8 ? 'color:' ~ colors.gray8 ~ ';' : '' %}
+{% set colorGray9 = colors.gray9 ? 'color:' ~ colors.gray9 ~ ';' : '' %}
+
+{% set borderWidth = border.borderItemWidth ? 'border-width: ' ~ border.borderItemWidth ~ 'px;' : '' %}
+{% set borderStyle = border.borderItemStyle ? 'border-style: ' ~ border.borderItemStyle ~ ';': '' %}
+{% set borderColor = border.borderItemColor ? 'border-color: ' ~ border.borderItemColor ~ ';' : '' %}
+{% set borderRadius = border.borderItemRadius ? 'border-radius: ' ~ border.borderItemRadius ~ 'px;' : '' %}
+
+<style>{{ data.customCSS.code }}</style>
+{% include "Containers/" ~ data.general.variant ~ ".twig" %}
+
+

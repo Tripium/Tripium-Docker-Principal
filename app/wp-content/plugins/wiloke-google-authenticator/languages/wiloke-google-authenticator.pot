@@ -1,0 +1,121 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Wiloke Google Authenticator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-15 00:50+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#. URI of the plugin
+msgid ""
+": https://wilcityservice.com/wiloke-plugins/wiloke-google-authenticator/"
+msgstr ""
+
+#. Description of the plugin
+msgid "A useful plugin for WordPress Security"
+msgstr ""
+
+#: config/app.php:17
+msgid "Disable"
+msgstr ""
+
+#: config/app.php:18
+msgid "Enable"
+msgstr ""
+
+#: app/Controllers/Wilcity/OTPVerificationFormController.php:46
+msgid ""
+"Enter in 6 digit code from your Google Authenticator or 3rd party app below"
+msgstr ""
+
+#: config/app.php:5
+msgid "Google authenticator setting"
+msgstr ""
+
+#: config/app.php:4
+msgid "Google Authenticator Settings"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wiloke.com"
+msgstr ""
+
+#: app/Controllers/Wilcity/OTPVerificationController.php:61
+msgid "Invalid user id"
+msgstr ""
+
+#: app/Controllers/GoogleAuthVerificationController.php:28
+#: app/Controllers/GoogleAuthVerificationController.php:35
+msgid "Please log into the site first"
+msgstr ""
+
+#: app/Controllers/GoogleAuthSettingsController.php:78
+msgid "The Secret Code has been renewed"
+msgstr ""
+
+#: app/Controllers/GoogleAuthVerificationController.php:65
+msgid "This feature is turning off"
+msgstr ""
+
+#: config/wilcity-themeoptions.php:12
+msgid "Toggle Two-Factor Authentication Login"
+msgstr ""
+
+#: config/wilcity-themeoptions.php:22
+msgid "Two-Factor name"
+msgstr ""
+
+#: app/Controllers/Wilcity/OTPVerificationFormController.php:70
+msgid "Validate"
+msgstr ""
+
+#: config/wilcity-otp-form.php:5
+msgid "Verification code"
+msgstr ""
+
+#: app/Controllers/Wilcity/OTPVerificationController.php:54
+msgid "Verification code is required"
+msgstr ""
+
+#: app/Controllers/GoogleAuthVerificationController.php:41
+#: app/Controllers/GoogleAuthVerificationController.php:54
+#: app/Controllers/Wilcity/OTPVerificationController.php:109
+msgid "Verification failed. Please try it again."
+msgstr ""
+
+#: config/wilcity-themeoptions.php:28
+msgid "Verification page"
+msgstr ""
+
+#. Author of the plugin
+msgid "Wiloke"
+msgstr ""
+
+#. Name of the plugin
+msgid "Wiloke Google Authenticator"
+msgstr ""
+
+#: app/Controllers/GoogleAuthSettingsController.php:45
+msgid "Wiloke Google Authenticator is enabling"
+msgstr ""
+
+#: config/wilcity-themeoptions.php:29
+msgid "You can skip this step if you are using custom login option"
+msgstr ""
+
+#: app/Helpers/User.php:67
+msgid "You must be logged into the site first"
+msgstr ""
+
+#: app/Controllers/Wilcity/OTPVerificationController.php:44
+msgid "You need to log into the site with your account first"
+msgstr ""

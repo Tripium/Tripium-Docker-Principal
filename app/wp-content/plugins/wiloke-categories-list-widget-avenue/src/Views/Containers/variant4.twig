@@ -1,0 +1,66 @@
+{% set componentName = "wiloke-post-categories-avenue" %}
+{% set componentFile = 'component4.twig' %}
+
+
+{% if content|length == 0 %}
+<div class="{{ componentName }}-wrapper">
+  <div class="p:40px fz:20px ta:center bgc:#eee cur:pointer">Click here to set up the post</div>
+</div>
+{% else %}
+<div class="{{ componentName }}-wrapper {{ componentName }}-wrapper-loading lh:1.5">
+  <div class="{{ componentName }}-skeleton">
+    <div class="{{ componentName }}-grid" style="{{ columnStyles }};{{ gapStyles }}">
+      {% for item in content %}
+        <div class="{{ componentName }}-col">
+          {% include "Skeleton/skeleton1.twig" %}
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+  <div class="{{ componentName }}-content pos:absolute op:0">
+    {% if carousel and carousel.enable %}
+      {% set buttonEnable = carousel.buttonEnable is not defined ? true : carousel.buttonEnable %}
+      {% set paginationEnable = carousel.paginationEnable is not defined ? true : carousel.paginationEnable %}
+      {% set buttonCarouselColor = carousel.buttonColor is not defined ? '#111' : carousel.buttonColor %}
+      <div
+        class="wil-swiper"
+        data-options='{
+          slidesPerView: {{ responsive.xs }},
+          spaceBetween: {{ responsive.gapXs }},
+          breakpoints: {
+            768: { slidesPerView: {{ responsive.sm }}, spaceBetween: {{ responsive.gapSm }} },
+            992: { slidesPerView: {{ responsive.md }}, spaceBetween: {{ responsive.gapMd }} },
+            1200: { slidesPerView: {{ responsive.lg }}, spaceBetween: {{ responsive.gapLg }} }
+          }
+        }'
+      >
+        <div class="swiper">
+          <div class="swiper-wrapper d:flex mb:5px">
+            {% for item in content %}
+              <div class="swiper-slide h:auto! mih:100%! d:flex! fld:column!">
+                {% include "Shared/" ~ componentFile %}
+              </div>
+            {% endfor %}
+          </div>
+        </div>
+        {% if buttonEnable %}
+          <div class="swiper-button-next bg:none!" style="color: {{ buttonCarouselColor }}"></div>
+          <div class="swiper-button-prev bg:none!" style="color: {{ buttonCarouselColor }}"></div>
+        {% endif %}
+        {% if paginationEnable %}
+          <div class="swiper-pagination" style="color: {{ buttonCarouselColor }}"></div>
+        {% endif %}
+      </div>
+    {% else %}
+      <div class="{{ componentName }}-grid" style="{{ columnStyles }};{{ gapStyles }}">
+        {% for item in content %}
+          <div class="{{ componentName }}-col">
+            {% include "Shared/" ~ componentFile %}
+          </div>
+        {% endfor %}
+      </div>
+    {% endif %}
+  </div>
+</div>
+
+{% endif %}

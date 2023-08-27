@@ -1,0 +1,30 @@
+{
+  "name": "wiloke/repository",
+  "description": "A small tool but very useful. It helps to get a file or a item in file easier",
+  "type": "library",
+  "require": {
+    "php": "^7.2"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^8"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Wiloke",
+      "email": "contact.wiloke@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "WilokeRepository\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "WilokeRepositoryTest\\": "tests/"
+    }
+  },
+   "minimum-stability": "dev",
+   "prefer-stable": true
+}

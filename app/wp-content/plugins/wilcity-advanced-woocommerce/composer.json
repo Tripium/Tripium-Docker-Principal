@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+      "WilcityAdvancedProducts\\": "app/"
+    }
+  },
+  "require": {
+    "wiloke/repository": "^1.0"
+  }
+}

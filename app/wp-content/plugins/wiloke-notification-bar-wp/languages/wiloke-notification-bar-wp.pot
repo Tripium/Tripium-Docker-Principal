@@ -1,0 +1,171 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Wilcity Notification Bar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-04 07:11+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.6; wp-5.5.3"
+
+#: configs/settings.php:143 configs/settings.php:236
+msgid "Accent Color Picker"
+msgstr ""
+
+#: configs/settings.php:4
+msgid "Add New"
+msgstr ""
+
+#: functions/function.php:31
+msgid "Advanced Settings"
+msgstr ""
+
+#: configs/settings.php:217
+msgid "Autoplay Speed(ms)"
+msgstr ""
+
+#: configs/settings.php:106 configs/settings.php:123 configs/settings.php:191
+#: configs/settings.php:207
+msgid "Background Color"
+msgstr ""
+
+#: configs/settings.php:99 configs/settings.php:184
+msgid "Background Type"
+msgstr ""
+
+#: configs/settings.php:14
+msgid "Banner Name"
+msgstr ""
+
+#: configs/settings.php:174
+msgid "Banner Status"
+msgstr ""
+
+#: configs/settings.php:59
+msgid "Banner URL"
+msgstr ""
+
+#: configs/settings.php:73
+msgid "Blank"
+msgstr ""
+
+#: configs/settings.php:153 configs/settings.php:245
+msgid "Button Color Picker"
+msgstr ""
+
+#: configs/settings.php:81
+msgid "Campaign Expiry Date"
+msgstr ""
+
+#: configs/settings.php:265
+msgid "Custom Css"
+msgstr ""
+
+#: src/Controllers/AdminSettingNBController.php:46
+msgid "Data Update error"
+msgstr ""
+
+#: src/Controllers/AdminSettingNBController.php:43
+msgid "Data Update success"
+msgstr ""
+
+#: configs/settings.php:6
+msgid "Delete"
+msgstr ""
+
+#: configs/settings.php:9
+msgid "Delete The Banner"
+msgstr ""
+
+#: configs/settings.php:23
+msgid "Description"
+msgstr ""
+
+#: configs/settings.php:41
+msgid "Discount Highlight"
+msgstr ""
+
+#: configs/settings.php:32
+msgid "Discount Name"
+msgstr ""
+
+#: configs/settings.php:5
+msgid "Edit"
+msgstr ""
+
+#: functions/function.php:20
+msgid "General Settings"
+msgstr ""
+
+#: configs/settings.php:50
+msgid "Get Now Button Name"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://wiloke.com"
+msgstr ""
+
+#: configs/settings.php:89
+msgid "Inherit General Settings"
+msgstr ""
+
+#: src/Controllers/AdminSettingNBController.php:20
+msgid "Notification Bar"
+msgstr ""
+
+#: configs/settings.php:75
+msgid "Self"
+msgstr ""
+
+#: configs/settings.php:3
+msgid "Settings Banner"
+msgstr ""
+
+#: functions/function.php:25
+msgid "Slider Item Settings"
+msgstr ""
+
+#: configs/settings.php:68
+msgid "Specifies where to open the linked document"
+msgstr ""
+
+#: configs/settings.php:7
+msgid "Submit"
+msgstr ""
+
+#: configs/settings.php:133 configs/settings.php:227
+msgid "Text Color Picker"
+msgstr ""
+
+#: configs/settings.php:8
+msgid "Upload"
+msgstr ""
+
+#: configs/settings.php:104 configs/settings.php:113 configs/settings.php:189
+#: configs/settings.php:197
+msgid "Upload Background Image"
+msgstr ""
+
+#: configs/settings.php:163 configs/settings.php:254
+msgid "Upload Logo"
+msgstr ""
+
+#. Name of the plugin
+msgid "Wilcity Notification Bar"
+msgstr ""
+
+#. Author of the plugin
+msgid "Wiloke"
+msgstr ""
+
+#: src/Controllers/AdminSettingNBController.php:21
+msgid "Wiloke Notification Bar"
+msgstr ""

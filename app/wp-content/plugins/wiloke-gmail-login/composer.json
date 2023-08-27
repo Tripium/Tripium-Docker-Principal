@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "WilokeGmailLogin\\": "app/"
+        }
+    },
+    "require": {
+        "google/apiclient": "~v2.9.2"
+    }
+}

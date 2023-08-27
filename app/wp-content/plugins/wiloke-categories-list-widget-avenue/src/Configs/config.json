@@ -1,0 +1,24 @@
+{
+  "name": "wiloke-post-categories-avenue",
+  "title": "Wiloke Categories List Widget Avenue",
+  "icon": "eicon-post",
+  "category": {
+    "title": "Wiloke",
+    "key": "wiloke-category",
+    "icon": "eicon-font"
+  },
+  "keywords": [
+    "card",
+    "wiloke",
+    "table",
+    "team card",
+    "team member",
+    "list"
+  ],
+  "css": "https://wil-post-categories-avenue.netlify.app/styles/styles.css",
+  "js": "https://wil-post-categories-avenue.netlify.app/js/scripts.js",
+  "libs": {
+    "css": [],
+    "js": []
+  }
+}

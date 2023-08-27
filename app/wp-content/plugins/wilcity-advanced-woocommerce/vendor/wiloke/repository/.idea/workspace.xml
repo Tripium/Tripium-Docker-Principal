@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a908562-8ca8-4d25-b8ee-f3727fa23818" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1Zry7aihYfgj34l48h8i4NtSGmj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\WilokeRepository\src\Helpers" />
+      <recent name="C:\xampp\htdocs\WilokeRepository\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHPUnit.WilokeRepositoryTest (1)">
+    <configuration name="WilokeRepositoryTest (1)" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="WilokeRepositoryTest\Helpers\WilokeRepositoryTest" file="$PROJECT_DIR$/tests/Helpers/WilokeRepositoryTest.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <configuration name="WilokeRepositoryTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="WilokeRepositoryTest\Helpers\WilokeRepositoryTest" file="$PROJECT_DIR$/tests/Helpers/WilokeRepositoryTest.php" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.WilokeRepositoryTest (1)" />
+        <item itemvalue="PHPUnit.WilokeRepositoryTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a908562-8ca8-4d25-b8ee-f3727fa23818" name="Default Changelist" comment="" />
+      <created>1585611340459</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585611340459</updated>
+      <workItem from="1585611341894" duration="3968000" />
+      <workItem from="1585615405162" duration="25000" />
+      <workItem from="1585617604279" duration="160000" />
+      <workItem from="1585617791993" duration="2584000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="270" y="18" key="#CLI_Interpreters" timestamp="1585614695096">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="270" y="18" key="#CLI_Interpreters/0.0.1366.728@0.0.1366.728" timestamp="1585614695096" />
+    <state x="397" y="0" key="#PHP" timestamp="1585614613768">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="397" y="0" key="#PHP/0.0.1366.728@0.0.1366.728" timestamp="1585614613768" />
+    <state x="367" y="0" width="646" height="728" key="#WilokeRepositoryTest" timestamp="1585614774136">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="367" y="0" width="646" height="728" key="#WilokeRepositoryTest/0.0.1366.728@0.0.1366.728" timestamp="1585614774136" />
+    <state x="460" y="276" key="ComposerInitDialogKey" timestamp="1585612465271">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="460" y="276" key="ComposerInitDialogKey/0.0.1366.728@0.0.1366.728" timestamp="1585612465271" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1585615325576">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585615325576" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1585615326573">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585615326573" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1585615326573">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585615326573" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1585615326573">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585615326573" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1585615326573">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585615326573" />
+    <state x="835" y="128" key="NewPhpClassDialog" timestamp="1585612764465">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="835" y="128" key="NewPhpClassDialog/0.0.1366.728@0.0.1366.728" timestamp="1585612764465" />
+    <state x="525" y="-670" key="NewPhpFileDialog" timestamp="1585618675008">
+      <screen x="-203" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="525" y="-670" key="NewPhpFileDialog/0.0.1366.728/-203.-1080.1920.1040@-203.-1080.1920.1040" timestamp="1585618675008" />
+    <state x="518" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1585614037971" />
+    <state x="328" y="-813" key="com.intellij.ide.util.TipDialog" timestamp="1585617800798">
+      <screen x="-203" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="328" y="-813" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-203.-1080.1920.1040@-203.-1080.1920.1040" timestamp="1585617800798" />
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-203.-1080.1920.1040@0.0.1366.728" timestamp="1585617606659" />
+    <state x="413" y="-299" key="run.anything.popup" timestamp="1585618685879">
+      <screen x="-203" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="413" y="-299" key="run.anything.popup/0.0.1366.728/-203.-1080.1920.1040@-203.-1080.1920.1040" timestamp="1585618685879" />
+  </component>
+</project>

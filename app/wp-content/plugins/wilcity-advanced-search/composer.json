@@ -1,0 +1,15 @@
+{
+  "autoload": {
+    "psr-4": {
+      "WilcityAdvancedSearch\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "WilcityAdvancedSearchTest\\": "tests/"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^7"
+  }
+}

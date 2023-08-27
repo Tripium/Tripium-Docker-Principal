@@ -1,0 +1,158 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Wilcity Advanced WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-16 07:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#: app/Controllers/NotificationController.php:437
+msgid "A Notification has been sent to customer (App)"
+msgstr ""
+
+#: app/Controllers/NotificationController.php:532
+msgid "A Notification has been sent to customer (Web)"
+msgstr ""
+
+#: app/Controllers/NotificationController.php:400
+msgid "A Notification has been sent to shop owner (App)"
+msgstr ""
+
+#: app/Controllers/NotificationController.php:484
+msgid "A Notification has been sent to Shop Owner (Web)"
+msgstr ""
+
+#. Description of the plugin
+msgid "An Advanced WooCommerce plugin for Wilcity"
+msgstr ""
+
+#: configs/checkout-popup.php:36
+msgid "By clicking on Book Now, I agree to your term and policy"
+msgstr ""
+
+#: configs/checkout-popup.php:29
+msgid "Email (*)"
+msgstr ""
+
+#: configs/checkout-popup.php:8
+msgid "First name (*)"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://wilcity.com"
+msgstr ""
+
+#: configs/checkout-popup.php:38
+msgid "In order to process checkout, You have to agree to our term and policy"
+msgstr ""
+
+#: app/Controllers/CheckoutController.php:99
+msgid "Invalid product id"
+msgstr ""
+
+#: configs/checkout-popup.php:15
+msgid "Last name (*)"
+msgstr ""
+
+#: app/Controllers/CheckoutController.php:166
+msgid "Order confirmed!"
+msgstr ""
+
+#: app/Controllers/CheckoutController.php:179
+msgid "Order failed!"
+msgstr ""
+
+#: configs/checkout-popup.php:22
+msgid "Phone Number (*)"
+msgstr ""
+
+#: app/Controllers/CheckoutController.php:110
+msgid "Please fill up all required information"
+msgstr ""
+
+#: app/Controllers/CheckoutController.php:89
+msgid "Please select 1 product at least"
+msgstr ""
+
+#: app/Controllers/SMSMessageController.php:372
+#: app/Controllers/SMSMessageController.php:451
+#, php-format
+msgid "Sent a SMS message to Customer %s %s on %s at %s"
+msgstr ""
+
+#: app/Controllers/SMSMessageController.php:260
+#, php-format
+msgid "Sent a SMS message to Shop Owner %s %s on %s at %s"
+msgstr ""
+
+#: app/Controllers/SMSMessageController.php:182
+#, php-format
+msgid "Sent a SMS message to shop owner %s %s on %s at %s"
+msgstr ""
+
+#: app/Controllers/Controller.php:121 app/Controllers/Controller.php:129
+#, php-format
+msgid "Start Date %s"
+msgstr ""
+
+#: app/Controllers/CheckoutController.php:129
+#, php-format
+msgid "The %s is required"
+msgstr ""
+
+#: app/Controllers/PrintProductsController.php:73
+msgid "The listing id is required"
+msgstr ""
+
+#: app/Controllers/NotificationController.php:186
+msgid "This order has been deleted"
+msgstr ""
+
+#: app/Controllers/SMSMessageController.php:385
+#: app/Controllers/SMSMessageController.php:464
+#, php-format
+msgid "We could not send a message to Customer %s %s. Reason %s"
+msgstr ""
+
+#: app/Controllers/SMSMessageController.php:195
+#: app/Controllers/SMSMessageController.php:273
+#, php-format
+msgid "We could not send a message to Shop Owner %s. Reason: %s"
+msgstr ""
+
+#: app/Controllers/PrintProductsController.php:80
+#: app/Controllers/PrintProductsController.php:105
+msgid "Whoops! We found no products of this listing"
+msgstr ""
+
+#. Author of the plugin
+msgid "Wilcity"
+msgstr ""
+
+#. Name of the plugin
+msgid "Wilcity Advanced WooCommerce"
+msgstr ""
+
+#: app/Controllers/SMSMessageController.php:44
+msgid "Wilcity Resend SMS Message To Customer"
+msgstr ""
+
+#: app/Controllers/SMSMessageController.php:46
+msgid "Wilcity Resend SMS Message To Shop Owner"
+msgstr ""
+
+#: app/Controllers/CheckoutController.php:169
+msgid ""
+"Your order is currently being processed. You will recieve an order "
+"confirmation email shortly"
+msgstr ""

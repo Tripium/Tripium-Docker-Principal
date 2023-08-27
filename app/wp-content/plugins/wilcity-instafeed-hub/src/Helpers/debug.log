@@ -1,0 +1,109 @@
+[12-Nov-2020 03:06:00 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /var/www/html/wp-content/plugins/wiloke-shopify-login/wiloke-shopify-login.php on line 26
+[12-Nov-2020 03:06:02 UTC] Array
+(
+    [token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJtZXNzYWdlIjoie1widXNlcklEXCI6MjY1LFwidXNlck5hbWVcIjpcInRlc3RpbnN0YTRcIixcInVzZXJFbWFpbFwiOlwidGVzdGluc3RhNEBnbWFpbC5jb21cIixcInJvbGVcIjpcImFkbWluaXN0cmF0b3JcIn0iLCJleHAiOjUyMDUxMDgwNzB9.agCc4RLuZooJMXCKQn__vjqSyhQLyRAlWtvYluLPaqY
+)
+
+[12-Nov-2020 03:06:20 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /var/www/html/wp-content/plugins/wiloke-shopify-login/wiloke-shopify-login.php on line 26
+[12-Nov-2020 03:06:23 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'WilokeShopifyLogin\Controllers\RegisterLogin\LoginRegisterController' does not have a method 'setTokensToCookie' in /var/www/html/wp-includes/class-wp-hook.php on line 289
+[12-Nov-2020 03:06:27 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /var/www/html/wp-content/plugins/wiloke-shopify-login/wiloke-shopify-login.php on line 26
+[12-Nov-2020 03:06:38 UTC] Array
+(
+    [token] => 
+)
+
+[12-Nov-2020 03:06:42 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /var/www/html/wp-content/plugins/wiloke-shopify-login/wiloke-shopify-login.php on line 26
+[12-Nov-2020 03:06:43 UTC] Array
+(
+    [token] => 
+)
+
+[12-Nov-2020 03:07:14 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /var/www/html/wp-content/plugins/wiloke-shopify-login/wiloke-shopify-login.php on line 26
+[12-Nov-2020 03:07:16 UTC] Array
+(
+    [token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJtZXNzYWdlIjoie1widXNlcklEXCI6MjY1LFwidXNlck5hbWVcIjpcInRlc3RpbnN0YTRcIixcInVzZXJFbWFpbFwiOlwidGVzdGluc3RhNEBnbWFpbC5jb21cIixcInJvbGVcIjpcImFkbWluaXN0cmF0b3JcIn0iLCJleHAiOjUyMDUxMDgwNzB9.agCc4RLuZooJMXCKQn__vjqSyhQLyRAlWtvYluLPaqY
+)
+
+[12-Nov-2020 03:07:44 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /var/www/html/wp-content/plugins/wiloke-shopify-login/wiloke-shopify-login.php on line 26
+[12-Nov-2020 03:08:48 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /var/www/html/wp-content/plugins/wiloke-shopify-login/wiloke-shopify-login.php on line 26
+[12-Nov-2020 03:10:48 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /var/www/html/wp-content/plugins/wiloke-shopify-login/wiloke-shopify-login.php on line 26
+[12-Nov-2020 03:12:13 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /var/www/html/wp-content/plugins/wiloke-shopify-login/wiloke-shopify-login.php on line 26
+[12-Nov-2020 03:12:14 UTC] Array
+(
+    [token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJtZXNzYWdlIjoie1widXNlcklEXCI6MjM3LFwidXNlck5hbWVcIjpcImNpdHltb2RcIixcInVzZXJFbWFpbFwiOlwiY2l0eWxpdmVtZEB5YW5kZXgucnVcIixcInJvbGVcIjpcImFkbWluaXN0cmF0b3JcIn0iLCJleHAiOjUyMDQ5NDQ0Mzh9.3cXezm3m-s31c81KN1HUeVFUCTbTELxMr3BrhJk5Vm8
+)
+
+[12-Nov-2020 03:12:16 UTC] Array
+(
+    [token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJtZXNzYWdlIjoie1widXNlcklEXCI6MjM3LFwidXNlck5hbWVcIjpcImNpdHltb2RcIixcInVzZXJFbWFpbFwiOlwiY2l0eWxpdmVtZEB5YW5kZXgucnVcIixcInJvbGVcIjpcImFkbWluaXN0cmF0b3JcIn0iLCJleHAiOjUyMDQ5NDQ0Mzh9.3cXezm3m-s31c81KN1HUeVFUCTbTELxMr3BrhJk5Vm8
+)
+
+[12-Nov-2020 03:12:17 UTC] Array
+(
+    [token] => 
+)
+
+[12-Nov-2020 03:12:21 UTC] Array
+(
+    [token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJtZXNzYWdlIjoie1widXNlcklEXCI6MjM3LFwidXNlck5hbWVcIjpcImNpdHltb2RcIixcInVzZXJFbWFpbFwiOlwiY2l0eWxpdmVtZEB5YW5kZXgucnVcIixcInJvbGVcIjpcImFkbWluaXN0cmF0b3JcIn0iLCJleHAiOjUyMDQ5NDQ0Mzh9.3cXezm3m-s31c81KN1HUeVFUCTbTELxMr3BrhJk5Vm8
+)
+
+[12-Nov-2020 03:12:21 UTC] PHP Notice:  Undefined index: display_on_pages in /var/www/html/wp-content/plugins/wiloke-shopify-instagram/src/Middlewares/InstagramManagementGeneralCreate.php on line 37
+[12-Nov-2020 03:12:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/wp-content/plugins/wiloke-shopify-instagram/src/Middlewares/InstagramManagementGeneralCreate.php on line 37
+[12-Nov-2020 03:12:21 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /var/www/html/wp-content/plugins/wiloke-shopify-instagram/src/Middlewares/InstagramManagementGeneralCreate.php on line 37
+[12-Nov-2020 03:12:21 UTC] PHP Warning:  array_diff(): Expected parameter 2 to be an array, null given in /var/www/html/wp-content/plugins/wiloke-shopify-instagram/src/Middlewares/InstagramManagementGeneralCreate.php on line 70
+[12-Nov-2020 03:12:25 UTC] Array
+(
+    [userId] => 237
+)
+
+[12-Nov-2020 03:12:25 UTC] Array
+(
+    [token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJtZXNzYWdlIjoie1widXNlcklEXCI6MjM3LFwidXNlck5hbWVcIjpcImNpdHltb2RcIixcInVzZXJFbWFpbFwiOlwiY2l0eWxpdmVtZEB5YW5kZXgucnVcIixcInJvbGVcIjpcImFkbWluaXN0cmF0b3JcIn0iLCJleHAiOjUyMDQ5NDQ0Mzh9.3cXezm3m-s31c81KN1HUeVFUCTbTELxMr3BrhJk5Vm8
+)
+
+[12-Nov-2020 03:12:50 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /var/www/html/wp-content/plugins/wiloke-shopify-login/wiloke-shopify-login.php on line 26
+[12-Nov-2020 03:14:50 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /var/www/html/wp-content/plugins/wiloke-shopify-login/wiloke-shopify-login.php on line 26
+[12-Nov-2020 03:16:52 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /var/www/html/wp-content/plugins/wiloke-shopify-login/wiloke-shopify-login.php on line 26
+[12-Nov-2020 03:17:59 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /var/www/html/wp-content/plugins/wiloke-shopify-login/wiloke-shopify-login.php on line 26
+[12-Nov-2020 03:18:53 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /var/www/html/wp-content/plugins/wiloke-shopify-login/wiloke-shopify-login.php on line 26
+[12-Nov-2020 03:24:21 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /var/www/html/wp-content/plugins/wiloke-shopify-login/wiloke-shopify-login.php on line 26
+[12-Nov-2020 03:29:10 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /var/www/html/wp-content/plugins/wiloke-shopify-login/wiloke-shopify-login.php on line 26
+[12-Nov-2020 03:32:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /var/www/html/wp-content/plugins/wiloke-shopify-login/wiloke-shopify-login.php on line 26
+[12-Nov-2020 03:32:03 UTC] Array
+(
+    [token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJtZXNzYWdlIjoie1widXNlcklEXCI6MjM3LFwidXNlck5hbWVcIjpcImNpdHltb2RcIixcInVzZXJFbWFpbFwiOlwiY2l0eWxpdmVtZEB5YW5kZXgucnVcIixcInJvbGVcIjpcImFkbWluaXN0cmF0b3JcIn0iLCJleHAiOjUyMDQ5NDQ0Mzh9.3cXezm3m-s31c81KN1HUeVFUCTbTELxMr3BrhJk5Vm8
+)
+
+[12-Nov-2020 03:47:24 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /var/www/html/wp-content/plugins/wiloke-shopify-login/wiloke-shopify-login.php on line 26
+[12-Nov-2020 03:51:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /var/www/html/wp-content/plugins/wiloke-shopify-login/wiloke-shopify-login.php on line 26
+[12-Nov-2020 03:51:24 UTC] Array
+(
+    [token] => 
+)
+
+[12-Nov-2020 03:51:26 UTC] Array
+(
+    [token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJtZXNzYWdlIjoie1widXNlcklEXCI6MjY1LFwidXNlck5hbWVcIjpcInRlc3RpbnN0YTRcIixcInVzZXJFbWFpbFwiOlwidGVzdGluc3RhNEBnbWFpbC5jb21cIixcInJvbGVcIjpcImFkbWluaXN0cmF0b3JcIn0iLCJleHAiOjUyMDUxMDgwNzB9.agCc4RLuZooJMXCKQn__vjqSyhQLyRAlWtvYluLPaqY
+)
+
+[12-Nov-2020 03:51:29 UTC] Array
+(
+    [token] => 
+)
+
+[12-Nov-2020 03:51:59 UTC] Array
+(
+    [token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJtZXNzYWdlIjoie1widXNlcklEXCI6MjY1LFwidXNlck5hbWVcIjpcInRlc3RpbnN0YTRcIixcInVzZXJFbWFpbFwiOlwidGVzdGluc3RhNEBnbWFpbC5jb21cIixcInJvbGVcIjpcImFkbWluaXN0cmF0b3JcIn0iLCJleHAiOjUyMDUxMDgwNzB9.agCc4RLuZooJMXCKQn__vjqSyhQLyRAlWtvYluLPaqY
+)
+
+[12-Nov-2020 03:52:01 UTC] Array
+(
+    [token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJtZXNzYWdlIjoie1widXNlcklEXCI6MjY1LFwidXNlck5hbWVcIjpcInRlc3RpbnN0YTRcIixcInVzZXJFbWFpbFwiOlwidGVzdGluc3RhNEBnbWFpbC5jb21cIixcInJvbGVcIjpcImFkbWluaXN0cmF0b3JcIn0iLCJleHAiOjUyMDUxMDgwNzB9.agCc4RLuZooJMXCKQn__vjqSyhQLyRAlWtvYluLPaqY
+)
+
+[12-Nov-2020 03:52:02 UTC] Array
+(
+    [token] => 
+)
+

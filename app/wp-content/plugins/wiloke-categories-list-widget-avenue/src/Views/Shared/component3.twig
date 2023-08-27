@@ -1,0 +1,16 @@
+{% set componentName = "wiloke-post-categories-avenue" %}
+
+<a href="{{item.link}}" class="wiloke-container group* d:flex ai:center td:none! bd:1px_solid_#f2f2f7 bgc:#fff ov:hidden bxsh:0_1px_5px_#17174f0d|h trs:0.3s bdrs:6px {{componentName}}-3" style="{{colorLightVariable}} {{colorGray2Variable}} {{borderWidth}} {{borderStyle}} {{borderColor}} {{borderRadius}}">
+  <div class="w:40% flxs:0">
+    <div class="veda-image-cover pos:relative bgz:cover bgp:50%_50% " style="{{aspectRatio}}">
+      <img class=" pos:absolute t:0 l:0 w:100% h:100% obf:cover" src="{{item.image}}" alt="Activewear" data-intrinsic-width="1000" data-intrinsic-height="1250" >
+    </div>
+  </div>
+  {% if item.title %}
+    <div class="wiloke-title titleTypo c:#17174F trs:0.3s fw:500 fz:14px ff:Poppins p:0_10px {{componentName}}-1__title" style="{{titleTypo}} {{colorGray9}}{{colorPrimaryVariable}}">
+      {{item.title}}
+    </div>
+  {% endif %}
+
+
+</a>

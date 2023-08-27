@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "WilcityTranslation\\": "src/"
+    }
+  },
+  "require": {
+    "gettext/gettext": "^5.4",
+    "wiloke/repository": "^1.0"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "WilokeOptimization\\": "src/"
+    }
+  },
+  "require": {
+    "deliciousbrains/wp-background-processing": "^1.0",
+    "symfony/dom-crawler": "^5.2"
+  }
+}
